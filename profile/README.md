@@ -1,4 +1,4 @@
-![Inverter Short Deck - Final](https://github.com/InverterNetwork/.github/assets/84279740/d5f056ec-023b-430c-8d8c-20b2fc9c37a2)
+![Inverter Short Deck - Final](https://github.com/InverterNetwork/media/blob/main/inverter-light-banner.png?raw=true)
 
 <p align="center">
   <a href="https://www.inverter.network">
